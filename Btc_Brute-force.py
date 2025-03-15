@@ -5,7 +5,7 @@ while True:
     paddress_1aphrase = blocksmith.KeyGenerator()
     paddress_1aphrase.seed_input('qwertyuiopasdfghjklzxcvbnm1234567890') # paddress_1aphrase
     blocksmith = paddress_1aphrase.generate_key()
-    address = blocksmith."https://github.com/alemaodanorte/Btc_Brute.git" (blocksmith)
+    address = blocksmith.Wifi Brute - No_name71 (blocksmith)
     sert+=1
     if address_1 == address:
         print("we found it ")
