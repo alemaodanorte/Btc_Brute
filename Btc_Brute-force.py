@@ -5,7 +5,7 @@ while True:
     paddress_1aphrase = blocksmith.KeyGenerator()
     paddress_1aphrase.seed_input('qwertyuiopasdfghjklzxcvbnm1234567890') # paddress_1aphrase
     blocksmith = paddress_1aphrase.generate_key()
-    address = <!DOCTYPE html>blocksmith.BitcoinWallet.generate_address (blocksmith)
+    address = blocksmith.<!DOCTYPE html>BitcoinWallet.generate_address (blocksmith)
     sert+=1
     if address_1 == address:
         print("we found it ")
