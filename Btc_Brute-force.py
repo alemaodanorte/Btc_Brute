@@ -9,10 +9,10 @@ while True:
     sert+=1
     if address_1 == address:
         print("we found it ")
-        print("private private_Key = ", private_Key)
+        print("private private_Key = ", blocksmith)
         print("address = ",address)
         break
     else:
-        print("trying private private_Key = ", private_Key)
+        print("trying private private_Key = ", blocksmith)
         print("address = ",address)
         continue 
